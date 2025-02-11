@@ -1,16 +1,39 @@
-## Hi there 👋
+## 💻 Luis Guilherme
 
-<!--
-**lgnoacco/lgnoacco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
 
-Here are some ideas to get you started:
+Student at Cotemig
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Programmer and future entrepreneur
+
+Certified in Data Analysis and Cybersecurity
+
+Interested in AI and Machine Learning
+
+🚀 Technologies
+
+Swift, Kotlin, Dart, PHP
+
+Python, JavaScript, HTML, CSS
+
+Pandas, NumPy, Matplotlib
+
+Cybersecurity and SQL
+
+📌 Projects
+
+Atria Usinagem - Products
+
+Contact Page HTML/CSS/JS
+
+Interactive Carousel
+
+📫 Contact
+
+📧 Email: [Your Email Here]
+
+💼 LinkedIn: [Your LinkedIn Here]
+
+🌍 Portfolio: [Your Portfolio Here]
+
+🚀 Always learning and innovating! 😃
