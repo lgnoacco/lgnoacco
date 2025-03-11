@@ -34,6 +34,6 @@ Interactive Carousel
 
 💼 LinkedIn: https://br.linkedin.com/in/luisnoacco
 
-🌍 Portfolio: [Your Portfolio Here]
+🌍 Portfolio: [Not Ready]
 
 🚀 Always learning and innovating! 😃
