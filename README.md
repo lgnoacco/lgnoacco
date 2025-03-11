@@ -30,7 +30,7 @@ Interactive Carousel
 
 📫 Contact
 
-📧 Email: lgnoacco@hmail.com
+📧 Email: lgnoacco@gmail.com
 
 💼 LinkedIn: https://br.linkedin.com/in/luisnoacco
 
