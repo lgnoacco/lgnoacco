@@ -35,10 +35,30 @@ Curso Engenharia da Computação na PUC Minas e transito entre várias pontas do
 
 <br/>
 
-## Stack principal
+## Stack
+
+**Front-end & Mobile**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,swift,flutter,dart,linux,git,github,docker,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=swift,flutter,dart,kotlin,ts,nextjs,react&theme=dark" />
+</div>
+
+**Back-end**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express&theme=dark" />
+</div>
+
+**Banco de Dados**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&theme=dark" />
+</div>
+
+**Ferramentas**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" />
 </div>
 
 <br/>
