@@ -38,56 +38,21 @@ Curso Engenharia da Computação na PUC Minas e transito entre várias pontas do
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lgnoacco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgnoacco&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lgnoacco&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-## Gráfico de atividade
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lgnoacco&theme=react-dark" width="100%" />
-</div>
-
-<br/>
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lgnoacco&theme=dracula&column=6&margin-w=15&margin-h=15" />
 </div>
 
 <br/>
 
 ## Projetos em destaque
 
-<div align="center">
-  <a href="https://github.com/lgnoacco/spotify">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=lgnoacco&repo=spotify&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/lgnoacco/instagram_swift">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=lgnoacco&repo=instagram_swift&theme=tokyonight&hide_border=true" />
-  </a>
-  <br/>
-  <a href="https://github.com/lgnoacco/farm_drone">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=lgnoacco&repo=farm_drone&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/lgnoacco/career-roadmap-ai">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=lgnoacco&repo=career-roadmap-ai&theme=tokyonight&hide_border=true" />
-  </a>
-  <br/>
-  <a href="https://github.com/lgnoacco/API-RESTful-com-Express-e-Prisma">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=lgnoacco&repo=API-RESTful-com-Express-e-Prisma&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/lgnoacco/Color-Picker-SwiftUI">
-    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=lgnoacco&repo=Color-Picker-SwiftUI&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
+| Projeto | Descrição |
+|---|---|
+| [**spotify**](https://github.com/lgnoacco/spotify) | Clone da interface do Spotify em Swift |
+| [**instagram_swift**](https://github.com/lgnoacco/instagram_swift) | Clone da interface do Instagram em Swift |
+| [**farm_drone**](https://github.com/lgnoacco/farm_drone) | App em Flutter para controle de drone de entrega (projeto PUC Minas) |
+| [**career-roadmap-ai**](https://github.com/lgnoacco/career-roadmap-ai) | Plataforma que analisa habilidades e objetivos pra gerar trilhas de aprendizado personalizadas |
+| [**API-RESTful-com-Express-e-Prisma**](https://github.com/lgnoacco/API-RESTful-com-Express-e-Prisma) | API REST em TypeScript com Express e Prisma |
+| [**Color-Picker-SwiftUI**](https://github.com/lgnoacco/Color-Picker-SwiftUI) | Seletor de cores feito em SwiftUI |
 
 <br/>
 
