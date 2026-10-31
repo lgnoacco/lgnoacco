@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Luis%20Noacco&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Building%20Sentinel%20Fabric&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Luis%20Noacco&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%40%20PUC%20Minas&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=Building+Sentinel+Fabric+%7C+ASM+SaaS+(em+breve);Software+Engineering+%40+PUC+Minas;Python+%7C+TypeScript+%7C+Swift+%7C+Flutter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=Engenharia+da+Computacao+%40+PUC+Minas;Apps+mobile%2C+Arduino+e+ESP32;Recriando+apps+famosos+pra+treinar;Python+%7C+TypeScript+%7C+Swift+%7C+Flutter" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,10 +21,9 @@
 
 ## Sobre mim
 
-- Estudante de **Engenharia de Software** na **PUC Minas**
-- Desenvolvendo a **[Sentinel Fabric](https://github.com/lgnoacco/sentinel)** — plataforma B2B SaaS de *Attack Surface Management (ASM)* (ainda não lançada)
+Curso Engenharia da Computação na PUC Minas e transito entre várias pontas do desenvolvimento: construo apps mobile em Flutter e Swift (inclusive recriando interfaces de apps famosos tipo Spotify e Instagram só pra treinar), mexo com automação e sistemas embarcados em Arduino e ESP32, e escrevo bastante Python e TypeScript no dia a dia. Sou curioso por natureza: se tem um hardware novo pra desmontar ou um app pra replicar, provavelmente eu já tentei.
+
 - Belo Horizonte, Brasil
-- De olho em programas de intercâmbio
 
 <br/>
 
@@ -52,7 +51,7 @@
 ## Gráfico de atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lgnoacco&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lgnoacco&theme=react-dark" width="100%" />
 </div>
 
 <br/>
@@ -60,18 +59,35 @@
 ## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lgnoacco&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lgnoacco&theme=dracula&column=6&margin-w=15&margin-h=15" />
 </div>
 
 <br/>
 
 ## Projetos em destaque
 
-| Projeto | Descrição |
-|---|---|
-| **Sentinel Fabric** | Plataforma B2B SaaS de Attack Surface Management — em desenvolvimento, lançamento em breve |
-| **F.A.R.M Drone** | App em Flutter para controle de drone de entrega (projeto PUC Minas) |
-| **Home Server** | Servidor caseiro/home lab montado com PCs antigos DDR3, estilo "central de comando" |
+<div align="center">
+  <a href="https://github.com/lgnoacco/spotify">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=lgnoacco&repo=spotify&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/lgnoacco/instagram_swift">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=lgnoacco&repo=instagram_swift&theme=tokyonight&hide_border=true" />
+  </a>
+  <br/>
+  <a href="https://github.com/lgnoacco/farm_drone">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=lgnoacco&repo=farm_drone&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/lgnoacco/career-roadmap-ai">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=lgnoacco&repo=career-roadmap-ai&theme=tokyonight&hide_border=true" />
+  </a>
+  <br/>
+  <a href="https://github.com/lgnoacco/API-RESTful-com-Express-e-Prisma">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=lgnoacco&repo=API-RESTful-com-Express-e-Prisma&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/lgnoacco/Color-Picker-SwiftUI">
+    <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=lgnoacco&repo=Color-Picker-SwiftUI&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
 <br/>
 
