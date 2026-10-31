@@ -40,7 +40,7 @@ Curso Engenharia da Computação na PUC Minas e transito entre várias pontas do
 **Front-end & Mobile**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=swift,flutter,dart,kotlin,ts,nextjs,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=swift,flutter,dart,ts,nextjs,react&theme=dark" />
 </div>
 
 **Back-end**
@@ -52,7 +52,7 @@ Curso Engenharia da Computação na PUC Minas e transito entre várias pontas do
 **Banco de Dados**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
 </div>
 
 **Ferramentas**
