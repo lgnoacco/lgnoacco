@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Luis%20Noacco&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%40%20PUC%20Minas&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=Engenharia+da+Computacao+%40+PUC+Minas;Apps+mobile%2C+Arduino+e+ESP32;Recriando+apps+famosos+pra+treinar;Python+%7C+TypeScript+%7C+Swift+%7C+Flutter" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=Engenharia+da+Computa%C3%A7%C3%A3o+%40+PUC+Minas;Apps+mobile%2C+Arduino+e+ESP32;Automa%C3%A7%C3%A3o+e+sistemas+embarcados;Python+%7C+TypeScript+%7C+Swift+%7C+Flutter" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,7 +21,7 @@
 
 ## Sobre mim
 
-Curso Engenharia da Computação na PUC Minas e transito entre várias pontas do desenvolvimento: construo apps mobile em Flutter e Swift (inclusive recriando interfaces de apps famosos tipo Spotify e Instagram só pra treinar), mexo com automação e sistemas embarcados em Arduino e ESP32, e escrevo bastante Python e TypeScript no dia a dia. Sou curioso por natureza: se tem um hardware novo pra desmontar ou um app pra replicar, provavelmente eu já tentei.
+Curso Engenharia da Computação na PUC Minas e transito entre várias pontas do desenvolvimento: construo apps mobile em Flutter e Swift, trabalho com automação e sistemas embarcados em Arduino e ESP32, e escrevo bastante Python e TypeScript no dia a dia. Gosto de entender como as coisas funcionam por dentro, do hardware ao software.
 
 - Belo Horizonte, Brasil
 
@@ -47,12 +47,12 @@ Curso Engenharia da Computação na PUC Minas e transito entre várias pontas do
 
 | Projeto | Descrição |
 |---|---|
-| [**spotify**](https://github.com/lgnoacco/spotify) | Clone da interface do Spotify em Swift |
-| [**instagram_swift**](https://github.com/lgnoacco/instagram_swift) | Clone da interface do Instagram em Swift |
-| [**farm_drone**](https://github.com/lgnoacco/farm_drone) | App em Flutter para controle de drone de entrega (projeto PUC Minas) |
-| [**career-roadmap-ai**](https://github.com/lgnoacco/career-roadmap-ai) | Plataforma que analisa habilidades e objetivos pra gerar trilhas de aprendizado personalizadas |
-| [**API-RESTful-com-Express-e-Prisma**](https://github.com/lgnoacco/API-RESTful-com-Express-e-Prisma) | API REST em TypeScript com Express e Prisma |
-| [**Color-Picker-SwiftUI**](https://github.com/lgnoacco/Color-Picker-SwiftUI) | Seletor de cores feito em SwiftUI |
+| [**spotify**](https://github.com/lgnoacco/spotify) | Clone da interface do Spotify, em Swift. |
+| [**instagram_swift**](https://github.com/lgnoacco/instagram_swift) | Clone da interface do Instagram, em Swift. |
+| [**farm_drone**](https://github.com/lgnoacco/farm_drone) | App em Flutter para controle de drone de entrega, projeto da PUC Minas. |
+| [**career-roadmap-ai**](https://github.com/lgnoacco/career-roadmap-ai) | Plataforma que analisa habilidades e objetivos para gerar trilhas de aprendizado personalizadas. |
+| [**API-RESTful-com-Express-e-Prisma**](https://github.com/lgnoacco/API-RESTful-com-Express-e-Prisma) | API REST em TypeScript, com Express e Prisma. |
+| [**Color-Picker-SwiftUI**](https://github.com/lgnoacco/Color-Picker-SwiftUI) | Seletor de cores feito em SwiftUI. |
 
 <br/>
 
