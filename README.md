@@ -82,7 +82,6 @@ Curso Engenharia da Computação na PUC Minas e transito entre várias pontas do
 | [**spotify**](https://github.com/lgnoacco/spotify) | Clone da interface do Spotify, em Swift. |
 | [**instagram_swift**](https://github.com/lgnoacco/instagram_swift) | Clone da interface do Instagram, em Swift. |
 | [**farm_drone**](https://github.com/lgnoacco/farm_drone) | App em Flutter para controle de drone de entrega, projeto da PUC Minas. |
-| [**career-roadmap-ai**](https://github.com/lgnoacco/career-roadmap-ai) | Plataforma que analisa habilidades e objetivos para gerar trilhas de aprendizado personalizadas. |
 | [**API-RESTful-com-Express-e-Prisma**](https://github.com/lgnoacco/API-RESTful-com-Express-e-Prisma) | API REST em TypeScript, com Express e Prisma. |
 | [**Color-Picker-SwiftUI**](https://github.com/lgnoacco/Color-Picker-SwiftUI) | Seletor de cores feito em SwiftUI. |
 
