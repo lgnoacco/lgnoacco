@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Luis%20Noacco&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20%40%20PUC%20Minas&descAlignY=55&descSize=18" width="100%"/>
+<img src="atom.svg" width="100%"/>
+
+<h1>Luis Noacco</h1>
+<p>Computer Engineering Student @ PUC Minas · rumo à computação quântica 🧪</p>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=Engenharia+da+Computa%C3%A7%C3%A3o+%40+PUC+Minas;Apps+mobile%2C+Arduino+e+ESP32;Automa%C3%A7%C3%A3o+e+sistemas+embarcados;Python+%7C+TypeScript+%7C+Swift+%7C+Flutter" alt="Typing SVG" />
@@ -27,8 +30,8 @@
 
 Curso Engenharia da Computação na PUC Minas e transito entre várias pontas do desenvolvimento: construo apps mobile em Flutter e Swift, trabalho com automação e sistemas embarcados em Arduino e ESP32, e escrevo bastante Python e TypeScript no dia a dia. Gosto de entender como as coisas funcionam por dentro, do hardware ao software.
 
-- 🔭 Atualmente desenvolvendo o **F.A.R.M Drone**, controle de um drone de entrega em Flutter
-- 📍 Belo Horizonte, Brasil
+- Atualmente desenvolvendo o **F.A.R.M Drone**, controle de um drone de entrega em Flutter.
+- Belo Horizonte, Brasil.
 
 <br/>
 
