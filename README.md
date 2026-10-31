@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=lgnoacco&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=2c5364&style=flat" />
+
 </div>
 
 <br/>
@@ -23,7 +27,8 @@
 
 Curso Engenharia da Computação na PUC Minas e transito entre várias pontas do desenvolvimento: construo apps mobile em Flutter e Swift, trabalho com automação e sistemas embarcados em Arduino e ESP32, e escrevo bastante Python e TypeScript no dia a dia. Gosto de entender como as coisas funcionam por dentro, do hardware ao software.
 
-- Belo Horizonte, Brasil
+- 🔭 Atualmente desenvolvendo o **F.A.R.M Drone**, controle de um drone de entrega em Flutter
+- 📍 Belo Horizonte, Brasil
 
 <br/>
 
